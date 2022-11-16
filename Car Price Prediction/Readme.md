@@ -1,7 +1,7 @@
 # Car Price Prediction
 
 ## Task
-We need to predict the market value of the car. Available: technical characteristics, configurations and prices of vehicles.
+We need to predict the market value of the car. Available information: technical characteristics, configurations and prices of vehicles.
 
 ## Conclusion
 The best result is shown by the **Decision Tree**.
