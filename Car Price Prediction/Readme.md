@@ -5,8 +5,11 @@ We need to predict the market value of the car. Available: technical characteris
 
 ## Conclusion
 The best result is shown by the **Decision Tree**.
+
 **RMSE**: 1904.245068189712
+
 **Time**: 0.012438448270161946
+
 `registration_year` and `Power` are shown as the most important. Secondary features are `VehicleType`, `Brand` and `Kilometer`.
 
 
