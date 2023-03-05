@@ -1,7 +1,7 @@
 # Game market analysis
 
 ## Used methods:
-- visualisation
+- Visualisation
 - A/B testing
 
 
