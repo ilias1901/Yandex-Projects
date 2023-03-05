@@ -1,5 +1,13 @@
 # Car Price Prediction
 
+## Used methods:
+- Data preprocessing;
+- Feature engineering;
+- Machine learning;
+
+## Libraries Used
+pandas, numpy, matplotlib, seaborn, phik, sklearn
+
 ## Task
 We need to predict the market value of the car. Available information: technical characteristics, configurations and prices of vehicles.
 
