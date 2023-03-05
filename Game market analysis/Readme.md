@@ -1,5 +1,13 @@
 # Game market analysis
 
+## Used methods:
+- visualisation
+- A/B testing
+
+
+## Libraries Used
+pandas, numpy, matplotlib, seaborn, scipy
+
 ## Task
 We need to :
 1) Analyse the game market till the year 2016;
@@ -41,9 +49,6 @@ Test shows that most probably:
 
 2) We won't receive equal mean user score in different genres.
 
-
-## Libraries Used
-pandas, numpy, matplotlib, seaborn, scipy
 
 ## Status of the project
 Finished
